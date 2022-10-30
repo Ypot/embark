@@ -1049,8 +1049,6 @@ some links to read:
 And some videos to watch:
 
 - [[https://protesilaos.com/codelog/2021-01-09-emacs-embark-extras/][Embark and my extras]] by Protesilaos Stavrou.
-- [[https://youtu.be/qpoQiiinCtY][Embark -- Key features and tweaks]] by Raoul Comninos on the
-  Emacs-Elements YouTube channel.
 - [[https://youtu.be/WsxXr1ncukY][Livestreamed: Adding an Embark context action to send a stream
   message]] by Sacha Chua.
 - [[https://youtu.be/qk2Is_sC8Lk][System Crafters Live! - The Many Uses of Embark]] by David Wilson.
